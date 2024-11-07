@@ -5,7 +5,7 @@
 #include "gpio.h"
 #include "usart.h"
 #include "timer.h"
-
+/////////////
 
 // Fonction de comptage des occurrences
 void occurence(uint8_t *chaine, uint32_t tab[256]) {
